@@ -1,0 +1,30 @@
+2026-11-17 10:48:34,652 | INFO | Starting fault-tolerant data pipeline
+2026-11-17 10:48:34,652 | INFO | Reading source CSV: D:\adf-fault-tolerance-assignment\data\source\input_data.csv
+2026-11-17 10:48:34,656 | INFO | Source records loaded: 10
+2026-11-17 10:48:34,656 | INFO | Starting record validation
+2026-11-17 10:48:34,662 | INFO | Validation completed: 5 valid, 5 rejected
+2026-11-17 10:48:34,666 | INFO | Valid records copied to: D:\adf-fault-tolerance-assignment\data\destination\processed_data.csv
+2026-11-17 10:48:34,672 | INFO | Rejected records saved to: D:\adf-fault-tolerance-assignment\logs\skipped_records.csv
+2026-11-17 10:48:34,675 | WARNING | 5 incompatible or incomplete records were skipped
+2026-11-17 10:48:34,676 | INFO | Execution report generated: D:\adf-fault-tolerance-assignment\reports\execution_report.json
+2026-11-17 10:48:34,677 | INFO | Pipeline completed with status: SUCCESS_WITH_SKIPS
+2026-11-17 10:51:10,471 | INFO | Starting fault-tolerant data pipeline
+2026-11-17 10:51:10,472 | INFO | Reading source CSV: D:\adf-fault-tolerance-assignment\data\source\input_data.csv
+2026-11-17 10:51:10,474 | INFO | Source records loaded: 10
+2026-11-17 10:51:10,474 | INFO | Starting record validation
+2026-11-17 10:51:10,478 | INFO | Validation completed: 5 valid, 5 rejected
+2026-11-17 10:51:10,483 | INFO | Valid records copied to: D:\adf-fault-tolerance-assignment\data\destination\processed_data.csv
+2026-11-17 10:51:10,485 | INFO | Rejected records saved to: D:\adf-fault-tolerance-assignment\logs\skipped_records.csv
+2026-11-17 10:51:10,485 | WARNING | 5 incompatible or incomplete records were skipped
+2026-11-17 10:51:10,486 | INFO | Execution report generated: D:\adf-fault-tolerance-assignment\reports\execution_report.json
+2026-11-17 10:51:10,487 | INFO | Pipeline completed with status: SUCCESS_WITH_SKIPS
+2026-11-17 10:53:04,245 | INFO | Starting fault-tolerant data pipeline
+2026-11-17 10:53:04,246 | INFO | Reading source CSV: D:\adf-fault-tolerance-assignment\data\source\input_data.csv
+2026-11-17 10:53:04,248 | INFO | Source records loaded: 10
+2026-11-17 10:53:04,248 | INFO | Starting record validation
+2026-11-17 10:53:04,253 | INFO | Validation completed: 5 valid, 5 rejected
+2026-11-17 10:53:04,257 | INFO | Valid records copied to: D:\adf-fault-tolerance-assignment\data\destination\processed_data.csv
+2026-11-17 10:53:04,259 | INFO | Rejected records saved to: D:\adf-fault-tolerance-assignment\logs\skipped_records.csv
+2026-11-17 10:53:04,259 | WARNING | 5 incompatible or incomplete records were skipped
+2026-11-17 10:53:04,260 | INFO | Execution report generated: D:\adf-fault-tolerance-assignment\reports\execution_report.json
+2026-11-17 10:53:04,261 | INFO | Pipeline completed with status: SUCCESS_WITH_SKIPS

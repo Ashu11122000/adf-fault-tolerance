@@ -1,0 +1,2 @@
+{"timestamp": "2026-11-17T05:21:10.487859+00:00", "level": "WARNING", "message": "Pipeline completed with skipped records.", "details": {"total_records": 10, "successful_records": 5, "skipped_records": 5, "pipeline_status": "SUCCESS_WITH_SKIPS"}}
+{"timestamp": "2026-11-17T05:23:04.261379+00:00", "level": "WARNING", "message": "Pipeline completed with skipped records.", "details": {"total_records": 10, "successful_records": 5, "skipped_records": 5, "pipeline_status": "SUCCESS_WITH_SKIPS"}}

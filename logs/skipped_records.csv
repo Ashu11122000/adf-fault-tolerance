@@ -1,0 +1,6 @@
+record_id,customer_name,amount,city,error_reason
+3,Amit,,Panchkula,missing_amount
+4,Neha,ABC,Chandigarh,non_numeric_amount
+6,,1800,Mohali,missing_customer_name
+8,Arjun,XYZ,Delhi,non_numeric_amount
+10,Pooja,,Panchkula,missing_amount
