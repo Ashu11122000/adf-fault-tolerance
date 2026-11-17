@@ -1,0 +1,11 @@
+record_id,customer_name,amount,city
+1,Rahul,1500,Delhi
+2,Priya,2500,Mumbai
+3,Amit,,Panchkula
+4,Neha,ABC,Chandigarh
+5,Karan,3200,Delhi
+6,,1800,Mohali
+7,Simran,4500,Jaipur
+8,Arjun,XYZ,Delhi
+9,Rohan,2100,Mumbai
+10,Pooja,,Panchkula
